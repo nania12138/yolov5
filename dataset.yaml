@@ -1,0 +1,5 @@
+names: ["RedBull", "XueHua", "AD", "DongPeng", "BlueCube", "RedCube", "GreenCube",
+  "YellowCube", "Rubik", "TeLunSu", "Tennis", ]
+nc: 11
+train: dataset/train.txt
+val: dataset/val.txt
